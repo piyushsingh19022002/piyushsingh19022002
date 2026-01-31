@@ -20,7 +20,7 @@ I practice **DSA topic-wise** and track problems in a structured GitHub reposito
 
 | Topic | Progress |
 |------|----------|
-| Arrays | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-arrays) |
+| Arrays | 🔗 [View](https://github.com/piyushsingh19022002/DSA/tree/main/Arrays) |
 | Strings | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-strings) |
 | Hashing | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-hashing) |
 | Two Pointers | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-two-pointers) |
