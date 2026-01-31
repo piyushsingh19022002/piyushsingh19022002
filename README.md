@@ -6,6 +6,36 @@
 </p>
 
 ---
+I practice **DSA topic-wise** and track problems in a structured GitHub repository.
+
+---
+
+## 🧠 LeetCode Overall Stats (Auto)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/piyushsingh19?theme=light&font=Karma)
+
+---
+
+## 🧩 Topic-wise Tracking (Click to Explore)
+
+| Topic | Progress |
+|------|----------|
+| Arrays | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-arrays) |
+| Strings | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-strings) |
+| Hashing | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-hashing) |
+| Two Pointers | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-two-pointers) |
+| Sliding Window | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-sliding-window) |
+| Linked List | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-linked-list) |
+| Stack | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-stack) |
+| Queue | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-queue) |
+| Tree | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-tree) |
+| Graph | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-graph) |
+| DP | 🔗 [View](https://github.com/piyushsingh19022002/DSA#-dynamic-programming) |
+
+---
+
+## 📂 DSA Repository
+🔗 https://github.com/piyushsingh19022002/DSA
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **Vocal – Language Learning Platform**
