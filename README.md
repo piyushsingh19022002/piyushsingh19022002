@@ -10,10 +10,13 @@ I practice **DSA topic-wise** and track problems in a structured GitHub reposito
 
 ---
 
-## 🧠 LeetCode Overall Stats (Auto)
+## 🧠 LeetCode Overall Stats 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/piyushsingh19?theme=light&font=Karma)
 
+### 🟢 GeeksforGeeks (Profile)
+
+![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=piyushsingh1902)
 ---
 
 ## 🧩 Topic-wise Tracking (Click to Explore)
